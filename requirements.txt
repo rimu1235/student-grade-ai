@@ -1,7 +1,0 @@
-flask
-flask-cors
-google-generativeai
-scikit-learn
-pandas
-joblib
-gunicorn
